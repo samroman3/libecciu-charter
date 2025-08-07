@@ -31,7 +31,7 @@ const translations = {
         'unforgettable-experience': 'EXPERIENCIA INOLVIDABLE',
         'unforgettable-experience-desc': 'Disfruta de una comodidad y aventura sin igual a bordo de nuestras increíbles embarcaciones.',
         'professional-crew': 'TRIPULACIÓN PROFESIONAL',
-        'professional-crew-desc': 'Relájate y deja que nuestros capitanes y tripulación experimentados y con licencia manejen la navegación, mientras te enfocas en crear recuerdos duraderos.',
+        'professional-crew-desc': 'Relájate y deja que nuestros capitanes y tripulación con experiencia y con licencia manejen la navegación, mientras te enfocas en crear recuerdos duraderos.',
         'discover-new-places': 'DESCUBRE NUEVOS LUGARES',
         'discover-new-places-desc': 'Navega hacia el paraíso y descubre un mundo de comodidad, aventura y posibilidades infinitas.',
         
