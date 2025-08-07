@@ -2102,7 +2102,7 @@ section {
     position: fixed;
     top: 120px;
     right: 20px;
-    z-index: 1001;
+    z-index: 9999;
     background: rgba(255, 255, 255, 0.95);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
@@ -2114,6 +2114,7 @@ section {
     gap: 4px;
     transition: all 0.3s ease;
     animation: float 6s ease-in-out infinite;
+    pointer-events: auto;
 }
 
 .floating-language-toggle:hover {
@@ -2198,6 +2199,20 @@ section {
         right: 15px;
         padding: 6px;
     }
+}
+
+/* Ensure toggle is always visible on desktop */
+@media (min-width: 769px) {
+    .floating-language-toggle {
+        top: 120px;
+        right: 20px;
+        padding: 8px;
+        z-index: 9999;
+        display: flex !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+    }
+}
     
     .floating-lang-btn {
         padding: 8px 12px;

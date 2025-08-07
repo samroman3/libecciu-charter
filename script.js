@@ -66,6 +66,20 @@ const translations = {
         'coffee-maker': 'Cafetera',
         'toaster': 'Tostadora',
         
+        // Carousel Captions
+        'carousel-kitchen-title': 'Cocina Totalmente Equipada',
+        'carousel-kitchen-desc': 'Instalaciones de cocina completas con estufa de gas, microondas y todos los elementos esenciales',
+        'carousel-mainroom-title': 'Área de Living Principal',
+        'carousel-mainroom-desc': 'Espacioso salón cómodo con ventanas panorámicas',
+        'carousel-cabinroom-title': 'Cabina Privada',
+        'carousel-cabinroom-desc': 'Quarters de dormir cómodos con ropa de cama premium',
+        'carousel-bathroom-title': 'Baño Moderno',
+        'carousel-bathroom-desc': 'Instalaciones limpias y modernas con agua caliente y ducha',
+        'carousel-boatdeck-title': 'Área de Cubierta',
+        'carousel-boatdeck-desc': 'Espacio de cubierta abierta perfecto para tomar el sol y relajarse',
+        'carousel-cabinbathroom-title': 'Baño de Cabina',
+        'carousel-cabinbathroom-desc': 'Instalaciones de baño adicionales para la conveniencia de los huéspedes',
+        
         // Included Section
         'included-title': 'Incluido con tu Charter',
         'ice': '4 Bolsas Grandes de Hielo',
@@ -228,6 +242,20 @@ const translations = {
         'microwave': 'Microwave',
         'coffee-maker': 'Coffee Maker',
         'toaster': 'Toaster',
+        
+        // Carousel Captions
+        'carousel-kitchen-title': 'Fully Equipped Kitchen',
+        'carousel-kitchen-desc': 'Complete kitchen facilities with gas stove, microwave and all essential elements',
+        'carousel-mainroom-title': 'Main Living Area',
+        'carousel-mainroom-desc': 'Spacious comfortable salon with panoramic windows',
+        'carousel-cabinroom-title': 'Private Cabin',
+        'carousel-cabinroom-desc': 'Comfortable sleeping quarters with premium bedding',
+        'carousel-bathroom-title': 'Modern Bathroom',
+        'carousel-bathroom-desc': 'Clean and modern facilities with hot water and shower',
+        'carousel-boatdeck-title': 'Deck Area',
+        'carousel-boatdeck-desc': 'Open deck space perfect for sunbathing and relaxation',
+        'carousel-cabinbathroom-title': 'Cabin Bathroom',
+        'carousel-cabinbathroom-desc': 'Additional bathroom facilities for guest convenience',
         
         // Included Section
         'included-title': 'Included with Your Charter',

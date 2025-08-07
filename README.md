@@ -20,8 +20,8 @@ A luxury charter boat website for Libecciu Charters, featuring a modern, respons
 
 ## Services
 
-- Daily charters starting at $800 USD
-- Weekly charters (coming soon)
+- Daily charters 
+- Weekly charters 
 - Gourmet lunch options
 - Premium beverages
 - Water sports packages
@@ -37,60 +37,7 @@ A luxury charter boat website for Libecciu Charters, featuring a modern, respons
 - Responsive design principles
 - Progressive Web App features
 
-## Setup
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/libecciu-charter.git
-cd libecciu-charter
-```
-
-2. Open `index.html` in your browser or serve locally:
-```bash
-# Using Python
-python3 -m http.server 8000
-
-# Using Node.js (if you have http-server installed)
-npx http-server
-```
-
-3. Visit `http://localhost:8000` in your browser
-
-## Deployment
-
-This project is optimized for GitHub Pages deployment. Simply:
-
-1. Push to GitHub
-2. Go to repository Settings
-3. Scroll to "GitHub Pages" section
-4. Select "main" branch as source
-5. Save
-
-The site will be available at `https://yourusername.github.io/libecciu-charter`
-
-## File Structure
-
-```
-libecciu-charter/
-├── index.html          # Main HTML file
-├── styles.css          # All CSS styles
-├── script.js           # JavaScript functionality
-├── images/             # Image assets
-│   ├── libecciulogo.JPG
-│   ├── boatbody.JPG
-│   ├── boatdeck.JPG
-│   ├── cabinbathroom.JPG
-│   ├── cabinroom.JPG
-│   ├── kitchen.JPG
-│   ├── maindeck.JPG
-│   ├── mainroom.JPG
-│   ├── outerdeck.JPG
-│   ├── room.JPG
-│   ├── bathroom.JPG
-│   └── sailing.png.avif
-├── README.md           # This file
-└── .gitignore          # Git ignore rules
-```
 
 ## Performance Optimizations
 
