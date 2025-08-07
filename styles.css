@@ -383,6 +383,20 @@ html {
     text-transform: uppercase;
 }
 
+.about-description-centered {
+    font-family: 'Inter', 'Segoe UI', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.8;
+    color: #5a6c7d;
+    margin-bottom: 50px;
+    text-align: center;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+}
+
 .about p {
     font-size: 1.15rem;
     color: #5a6c7d;
