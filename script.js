@@ -44,8 +44,7 @@ const translations = {
         
         // Crew Section
         'crew-title': 'Tripulación y Equipo a Bordo',
-        'captain': 'Capitán',
-        'crew-members': 'Miembros de la Tripulación',
+        'captain': 'Nuestro Capitán',
         'chef': 'Chef',
         
         // Amenities Section
@@ -221,8 +220,7 @@ const translations = {
         
         // Crew Section
         'crew-title': 'Crew & Onboard Team',
-        'captain': 'Captain',
-        'crew-members': 'Crew Members',
+        'captain': 'Our Captain',
         'chef': 'Chef',
         
         // Amenities Section
